@@ -12,7 +12,7 @@ python <taille> <profondeur_rouge> <profondeur_bleu> <algorithm>
 
 Linux/MacOS:
 ```bash
-python3 <taille> <profondeur_rouge> <profondeur_bleu> <algorithm>
+python3 demo.py <taille> <profondeur_rouge> <profondeur_bleu> <algorithm>
 ```
 
 - `<taille>`: nombre de lignes et colonnes. ex: 7 = 7x7

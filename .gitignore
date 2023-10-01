@@ -23,3 +23,4 @@ livraison/build/
 livraison/docs/
 livraison/djiguine-diallo-sokhona-diallo.iml
 livraison/out
+__pycache__/
